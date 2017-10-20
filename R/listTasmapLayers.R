@@ -1,5 +1,6 @@
 #' List Tasmanian maps layers
 #'
+#' More information here would be nice ...
 #' @return
 #' @export
 #' @examples
